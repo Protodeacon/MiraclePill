@@ -297,6 +297,7 @@
 				9061F5121E05A89B0035A3C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
